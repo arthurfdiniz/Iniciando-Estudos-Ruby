@@ -7,3 +7,4 @@ puts "Legal... aguarde um instante!"
 sleep(3)
 puts "..."
 puts "O resultado da soma do primeiro número (#{number1}) com o segundo número (#{number2}) é: #{number1 + number2} !"
+sleep(3)
